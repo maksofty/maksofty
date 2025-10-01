@@ -90,7 +90,114 @@ C++
 
 ### 📈 GitHub Stats
 ![Mekuanint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksofty&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksofty&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksofty&layout=compact&theme=tokyonight)    
+
+
+
+# Hi, I'm Mekuanint 👋 (maksofty)  
+
+💻 **Software Engineer | React Native · React · Kotlin · Java · TypeScript**  
+📍 Ethiopia | 🌍 Open to remote work  
+
+[![GitHub](https://img.shields.io/badge/GitHub-VenomX--Meku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenomX-Meku)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-venapp22%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venapp22@gmail.com)
+
+---
+
+## 🔧 Main Tech — skill share (by preference / usage)
+
+### Languages & Frameworks
+<table>
+  <tr>
+    <td width="160"><strong>React Native</strong></td>
+    <td width="520">
+      <img src="https://img.shields.io/badge/React_Native-30%25-blue?style=flat-square" alt="React Native 30%">
+    </td>
+    <td width="200">
+      <details>
+        <summary>progress</summary>
+        <p>▰▰▰▰▰▱▱▱▱▱ 30%</p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>React</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-25%25-61DAFB?style=flat-square&logo=react&logoColor=white" alt="React 25%">
+    </td>
+    <td>
+      <details>
+        <summary>progress</summary>
+        <p>▰▰▰▰▰▰▱▱▱▱ 25%</p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Kotlin</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-20%25-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin 20%">
+    </td>
+    <td>
+      <details>
+        <summary>progress</summary>
+        <p>▰▰▰▰▰▱▱▱▱▱ 20%</p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>Java</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-15%25-007396?style=flat-square&logo=java&logoColor=white" alt="Java 15%">
+    </td>
+    <td>
+      <details>
+        <summary>progress</summary>
+        <p>▰▰▰▰▱▱▱▱▱▱ 15%</p>
+      </details>
+    </td>
+  </tr>
+
+  <tr>
+    <td><strong>TypeScript</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-10%25-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript 10%">
+    </td>
+    <td>
+      <details>
+        <summary>progress</summary>
+        <p>▰▰▱▱▱▱▱▱▱▱ 10%</p>
+      </details>
+    </td>
+  </tr>
+</table>
+
+---
+
+## ✨ Quick summary
+- **Top focus:** React Native (mobile) and React (web).  
+- **Mobile native languages:** Kotlin + Java for Android.  
+- **TypeScript:** used across React/React Native projects for types and better DX.
+
+---
+
+## 📌 How to change percentages
+- Edit the numeric percent in the `img.shields.io` badge URL (e.g. `-30%25-`) and the text progress bar.
+- Or replace the badge lines with the exact numbers you prefer.
+
+---
+
+If you want, I can:
+- produce a **graphical skill card** instead (SVG) or  
+- automatically generate a GitHub language-stats card (requires your GitHub username to embed).  
+
+Which one do you want next? ✅
+
+
+
 
 ---
 
