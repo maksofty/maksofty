@@ -88,21 +88,10 @@ C++
 
 ---
 
-### 📈 GitHub Stats
-![Mekuanint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maksofty&show_icons=true&theme=tokyonight&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maksofty&layout=compact&theme=tokyonight)    
+
+## 📈 GitHub Stats (maksofty) 
 
 
-
-## 📈 GitHub Stats  
-
-![Mekuanint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenomX-Meku&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku&layout=compact&theme=tokyonight)   
-
-## 📈 GitHub Stats  
-
-### 🔹 VenomX-Meku (Main)
 ![VenomX-Meku's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenomX-Meku&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku&layout=compact&theme=tokyonight)
 
