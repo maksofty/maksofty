@@ -150,4 +150,20 @@ C++
 
 
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenomX-Meku,maksofty&show_icons=true&theme=tokyonight" alt="Combined Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku,maksofty&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <!-- Cosmetic badges with custom numbers you requested -->
+  <img src="https://img.shields.io/badge/Commits-300-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Commits 300" />
+  <img src="https://img.shields.io/badge/Contributions-60-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Contributions 60" />
+</p>
+
+
+
+
 
