@@ -4,18 +4,9 @@
 📍 Ethiopia | 🌍 Open to remote work  
 
 [![GitHub](https://img.shields.io/badge/GitHub-VenomX--Meku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenomX-Meku)
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR_IMAGE_LINK" width="150" style="border-radius:50%;" alt="Mekuanint's Profile Picture"/>
-</p>
 
-# Hi, I'm Mekuanint 👋 (maksofty)
 
-💻 **Software Engineer | React Native, TypeScript & Android/Kotlin Developer**  
-📍 Ethiopia | 🌍 Open to remote work  
 
-[![GitHub](https://img.shields.io/badge/GitHub-VenomX--Meku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenomX-Meku)
-
----
 
 ### 📌 University Projects
 | Project | Tech Stack | Description |
