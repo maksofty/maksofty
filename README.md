@@ -11,7 +11,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | 🖥️ **Desktop Java App** | Java Swing + SQLite | GUI app built with drag-and-drop components for local data handling |
-| 🏛️ **Blockchain-based Land Registration System (Final Year Project)** | Solidity + Ethereum + Node.js + React | Decentralized land management system for secure registration and record keeping (2023) |
+| 🏛️ **Blockchain-based Land Registration System (Final Year Project)** | Solidity + Ethereum + Node.js + React | Decentralized land management system for secure registration and record keeping (2025) |
 | 🏥 **Hospital Management System (Final Year Project)** | HTML + CSS + JavaScript + PHP | Web-based hospital management solution for patient, doctor, and appointment management (2023) |
 | 📱 **Mobile Banking App** | Java (backend) + Firebase + SQLite | Android app for banking simulation with account management and cloud sync |
 | 📝 **Notes App** | Java + Android + Firebase | Android app for creating, updating, and storing notes in cloud database |
