@@ -124,7 +124,20 @@ C++
 ---
 
 ### 🔹 Combined Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku,maksofty&layout=compact&theme=tokyonight)   
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VenomX-Meku&show_icons=true&theme=tokyonight" alt="VenomX-Meku's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maksofty&show_icons=true&theme=tokyonight" alt="maksofty's GitHub Stats" height="165"/>
+</p>
+
+---
+
+### 🔹 Combined Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VenomX-Meku,maksofty&layout=compact&theme=tokyonight)
+
 
 
 
