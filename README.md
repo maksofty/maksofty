@@ -3,7 +3,7 @@
 💻 **Software Engineer | React Native, TypeScript & Android/Kotlin Developer**  
 📍 Ethiopia | 🌍 Open to remote work  
 
-## 🚀 Current Work →👉👉 [VenomX-Meku](https://github.com/VenomX-Meku)
+## 🚀 Go To Current Work →👉 [VenomX-Meku](https://github.com/VenomX-Meku)
 
 [![GitHub](https://img.shields.io/badge/GitHub-VenomX--Meku-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenomX-Meku)
 
